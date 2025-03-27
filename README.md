@@ -1,7 +1,35 @@
-# Welcome to your Expo app 👋
+# 📱 MediSkin-Wound-Detection-Mobile-App
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+# 📝 Description:
+A Mobile Application for wound detection assists users in assessing the severity of their wounds. By utilizing the camera and image processing algorithms, the system analyzes the scanned image to determine whether the wound is minor or major.
 
+# 👨‍💻🌐 Technologies used:
+- 🕸 React Expo
+- ⌨ TypeScript
+- 🏆 JavaScript
+- 🔥 Firebase
+- 🤖 TensorFlow for Machine Learning (Wound Classification)
+
+# 📲 Features of the App:
+- Login & Registration: Users can create accounts and log in to access personalized features.
+- Camera/Image Capture: Uses the smartphone camera to scan wounds.
+- Wound Classification: Determines if the wound is minor or major
+- Instant Analysis: Provides immediate feedback on wound severity.
+- Wound Care Recommendations: Offers basic first-aid tips and advises when to see a doctor.
+- Result History: Stores past scans for monitoring wound healing progress.
+- Skin Care & Wound Management Tips: Educates users on proper wound care practices.
+
+# 🧰 Installation instructions:
+- **Install Expo Go on your mobile device**
+
+To run the app on your physical device:
+
+- **iOS**: Download [Expo Go](https://apps.apple.com/app/expo-go/id982107779) from the App Store
+- **Android**: Download [Expo Go](https://play.google.com/store/apps/details?id=host.exp.exponent) from the Google Play Store
+
+After installing, you can scan the QR code from the terminal when running the app.
+
+# ⚒ Setup:
 ## Get started
 
 1. Install dependencies
@@ -35,16 +63,10 @@ npm run reset-project
 
 This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
 
-## Learn more
+## 👥 Contributors
 
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+- Jose Kervin S. Angeles
+- Clarise Angel M. Aquino
+- John Ivan Avilla
+- Chandler Marc Bautista
+- Eugene Bigornia
